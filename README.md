@@ -1,4 +1,4 @@
-# blockchain4j
+# blockchain4j [![Build Status](https://travis-ci.org/Moriadry/blockchain4j.svg?branch=master)](https://travis-ci.org/Moriadry/blockchain4j)
 
 Based on the Bitcoin white paper, simplify the model and implement it in Java. Document driven :)
 
